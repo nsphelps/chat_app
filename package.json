@@ -1,0 +1,14 @@
+{
+  "name": "staq-chat",
+  "version": "1.0.0",
+  "description": "Learning to build a chat application with the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Nicholas Phelps",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
